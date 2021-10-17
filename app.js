@@ -112,8 +112,8 @@ let sum = function (a, b, c, d) {
   return a + b + c + d;
 };
 
-// TODO: Uncomment the following line of code to see the output in the browser console
-// console.log(sum(1, 2, 3, 4));
+// DONE: Uncomment the following line of code to see the output in the browser console
+console.log(sum(1, 2, 3, 4));
 
 
 let objectLit = function () {
